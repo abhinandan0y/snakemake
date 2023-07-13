@@ -8,7 +8,7 @@ rule all:
      input:
         expand("results/{sample}.json", sample=samples),
         expand("results/{sample}.html", sample=samples)
-#        expand("{sample}.vcf", sample=samples)
+#        expand("results/{sample}.vcf", sample=samples)
 
 
 
