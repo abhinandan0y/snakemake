@@ -3,6 +3,8 @@ RUN:
 snakemake --cores 3 #snakemake -j; 
 snakemake --report; 
 snakemake --rulegraph |dot -Tpng >rulegraph.png
+#########################Results##########################################
+https://raw.githack.com/abhinandan0y/snakemake/main/results/report.html
 ______________________________________________________________________________________________________________
 This is sample of complete pipeline for vcf generation from fastq files using snakemake automation.
 Anyone can go through and develop an idea how to use snakemake to make their automation work for any pipeline.
