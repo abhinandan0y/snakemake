@@ -1,7 +1,7 @@
 # snakemake
-RUN:
-snakemake --cores 3 #snakemake -j
-snakemake --report
+RUN: 
+snakemake --cores 3 #snakemake -j; 
+snakemake --report; 
 snakemake --rulegraph |dot -Tpng >rulegraph.png
 ______________________________________________________________________________________________________________
 This is sample of complete pipeline for vcf generation from fastq files using snakemake automation.
