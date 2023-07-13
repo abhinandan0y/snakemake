@@ -2,3 +2,8 @@ samples:
   - data/barcode01/barcode01
 #  - data/barcode02/barcode02
 
+#samples: 'data/barcode01/barcode01', 'data/barcode02/barcode02'
+
+#samples:      #as key value
+#  A: data/barcode01/barcode01
+#  B: data/barcode02/barcode02
