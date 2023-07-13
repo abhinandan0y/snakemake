@@ -1,8 +1,7 @@
 #samples= ["data/barcode01/barcode01"]
-import pandas as pd
-from snakemake.utils import validate
+
 configfile: "config.yaml"
-validate(config, "config.schema.yaml")
+
 samples=config["samples"]
 
 rule all:
