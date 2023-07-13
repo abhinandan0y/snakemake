@@ -1,0 +1,11 @@
+How to view any html from github?
+
+STEPS:
+Open html file
+click raw on right side
+copy the url
+replace raw.githubusercontent.com with raw.githack.com
+
+##Click below link to visualize generated html in the pipeline.
+**#########################Results##########################################**
+https://raw.githack.com/abhinandan0y/snakemake/main/results/report.html
