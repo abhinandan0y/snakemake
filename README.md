@@ -7,5 +7,5 @@ Anyone can go through and develop an idea how to use snakemake to make their aut
 
 **Keep on Learning and Executing...🏃🏻**
 <div style="width: 100%;">
-  <img src="bioinformatics_lab.png" style="width: 100%;" alt="Click to see the source">
+  <img src="bioinformatics_lab.PNG" style="width: 100%;" alt="Click to see the source">
 </div>
