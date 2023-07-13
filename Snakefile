@@ -10,8 +10,6 @@ rule all:
         expand("results/{sample}.html", sample=samples)
 #        expand("results/{sample}.vcf", sample=samples)
 
-
-
 rule fastp:
     input:
         "{sample}.fastq.gz"        
