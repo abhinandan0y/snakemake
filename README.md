@@ -18,3 +18,4 @@ contact@:bioinformaticsfuture@gmail.com
 </div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhinandan0y%2Fsnakemake%2Ftree%2Fmain&count_bg=%2379C83D&title_bg=%23555555&icon=jabber.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <a img src="https://gitpod.io/button/open-in-gitpod.svg? url=https://gitpod.io/#https://github.com/abhinandan0y/snakemake"></a>
+gitpod.io/#https://github.com/abhinandan0y/snakemake
