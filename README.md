@@ -12,7 +12,7 @@ ________________________________________________________________________________
 This is sample of complete long reads of Nanopore/PacBio pipeline for vcf generation from samples of fastq files using snakemake automation.
 Anyone can go through and develop an idea how to use snakemake to make their automation work for any pipeline.
 
-**#Knowlegde is FREE but Solution is Your's🫡**
+**#Knowlegde is FREE but Solution is Your's🤘🏻**
 
 **Keep on Learning and Executing...🏃🏻**
 contact@:bioinformaticsfuture@gmail.com
