@@ -3,9 +3,11 @@
 <a href="https://abhinandan0y-snakemake-xpx37u3zfpq.ws-us101.gitpod.io/"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-FFB45B?logo=gitpod url=https://gitpod.io/#https://github.com/abhinandan0y/snakemake"/></a>
 
 RUN: 
+```python
 snakemake --cores 3 #snakemake -j; 
 snakemake --report; 
 snakemake --rulegraph |dot -Tpng >rulegraph.png
+```
 Results: 
 https://raw.githack.com/abhinandan0y/snakemake/main/results/report.html
 ______________________________________________________________________________________________________________
